@@ -9,6 +9,10 @@
 *.so
 *.dll
 *.dylib
+*.dll
+*.pdb
+*.ilk
+Dinosaur3dd.exe
 
 # Qt-es
 
@@ -35,4 +39,9 @@ Makefile*
 
 # QtCtreator CMake
 CMakeLists.txt.user
+
+#------------------
+/sdk
+/Dinosaur3d
+
 
