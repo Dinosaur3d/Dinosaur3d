@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>LoginBound.qml</file>
+        <file>LoginMain.qml</file>
+        <file>LoginView.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/login/button_01.png</file>
+        <file>image/login/button_02.png</file>
+        <file>image/login/close.png</file>
+        <file>image/login/dcvse.png</file>
+        <file>image/login/head04.png</file>
+        <file>image/login/max.png</file>
+        <file>image/login/min.png</file>
+        <file>image/login/psw.png</file>
+        <file>image/login/QRcode.jpg</file>
+        <file>image/login/sky.png</file>
+        <file>image/login/time_3.png</file>
+        <file>image/login/timg.jpg</file>
+        <file>image/login/user.png</file>
+        <file>image/login/transparent.png</file>
+    </qresource>
+</RCC>
