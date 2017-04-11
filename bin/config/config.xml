@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dinosaur version="1.0">
+    <language>chinese</language>
+    <login>
+        <use>1234567890</use>
+        <psw>0987654321</psw>
+        <rememberPassword>false</rememberPassword>
+    </login>
+	<tray>
+            <message>true</message>
+	</tray>
+</dinosaur>
