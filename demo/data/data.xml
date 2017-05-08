@@ -1,0 +1,18 @@
+<root>
+    <terrain>
+        <dem>terrain/dem.tif</dem>
+        <image>terrain/image.bmp</image>
+        <image1>terrain/class/1.png</image1>
+        <image2>terrain/class/2.png</image2>
+        <image3>terrain/class/3.png</image3>
+        <zscale>1</zscale>
+    </terrain>
+	<hxche>
+		<hxc>che/hxc01.obj</hxc>
+	</hxche>
+	<stone>
+		<stone_path>produce_stone.stn</stone_path>
+		<stonefilesinf>stone.inf</stonefilesinf>
+		<allstone>allstone.osgb</allstone>
+	</stone>
+</root>
